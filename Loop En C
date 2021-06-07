@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include<conio.h>
+int main()
+{
+    int num=1;
+    while(num<=100)
+    { /*While=ejecuta repedidamente (0 o más veces) una instrucción*/
+        printf("\nHola_Mundo");
+        num++;
+    }
+    return 0;
+}
