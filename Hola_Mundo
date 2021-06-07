@@ -1,0 +1,7 @@
+#include <stdio.h>
+/* Función Main inicia la ejecución del programa*/
+int main()
+{
+    printf("Hola Mundo");
+    return 0;
+} /* Fin de la función Main*/
